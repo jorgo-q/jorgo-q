@@ -33,19 +33,19 @@ I’ve worked at the intersection of **technology, business, and UX**, leading c
 
 ### 🚀 Projects
 
-- **[ReHub Portal](https://github.com/JorgoQ)**  
+**[ReHub Portal](https://github.com/JorgoQ)**  
   Built an internal AI-powered platform using Claude AI to streamline building compliance in NYC.
 
-- **[EasyPay Open Banking](https://easypay.al/en/openbanking/)**  
+**[EasyPay Open Banking](https://easypay.al/en/openbanking/)**  
   Led the development of Albania’s first Open Banking integration for EasyPay.
 
-- **[Waze Churn Prediction Model](https://github.com/jorgo-q/waze-churn-prediction-model)**  
+**[Waze Churn Prediction Model](https://github.com/jorgo-q/waze-churn-prediction-model)**  
   Machine Learning model predicting user churn patterns in Waze using behavioral and engagement data.
 
-- **[NYT Chart Recreation](https://github.com/Jorgo-Rice/RCEL_506)**  
+**[NYT Chart Recreation](https://github.com/Jorgo-Rice/RCEL_506)**  
   Recreated data visualizations from *The New York Times* series “What’s Going On in This Graph?” for storytelling practice.
 
-- **[Trainly](https://www.jorgoqirjaj.com/#projects)**  
+**[Trainly](https://www.jorgoqirjaj.com/#projects)**  
   A habit-forming fitness app designed to help users build consistency through small, sustainable changes.
 
 ---
