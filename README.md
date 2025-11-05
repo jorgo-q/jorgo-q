@@ -33,7 +33,7 @@ I’ve worked at the intersection of **technology, business, and UX**, leading c
 
 ### 🚀 Projects
 
-**[ReHub Portal](https://github.com/JorgoQ)**  
+**[ReHub Portal](https://www.jorgoqirjaj.com/projects)**  
   Built an internal AI-powered platform using Claude AI to streamline building compliance in NYC.
 
 **[EasyPay Open Banking](https://easypay.al/en/openbanking/)**  
@@ -45,7 +45,7 @@ I’ve worked at the intersection of **technology, business, and UX**, leading c
 **[NYT Chart Recreation](https://github.com/Jorgo-Rice/RCEL_506)**  
   Recreated data visualizations from *The New York Times* series “What’s Going On in This Graph?” for storytelling practice.
 
-**[Trainly](https://www.jorgoqirjaj.com/#projects)**  
+**[Trainly](https://www.jorgoqirjaj.com/projects)**  
   A habit-forming fitness app designed to help users build consistency through small, sustainable changes.
 
 ---
