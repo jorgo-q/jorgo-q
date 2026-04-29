@@ -46,7 +46,7 @@ Led the development of Albania's first Open Banking integration — real-time ac
 **[Waze Churn Prediction Model](https://waze-pm.streamlit.app/)**  
 Machine learning model and dashboard predicting user churn patterns using behavioral and engagement data.
 
-**[Trainly](https://www.jorgoqirjaj.com/projects)**  
+**[Trainly](https://www.trainlyapp.com/)**  
 A habit-forming fitness app designed to help users build consistency through small, sustainable changes — validated through 20+ user interviews.
 
 ---
