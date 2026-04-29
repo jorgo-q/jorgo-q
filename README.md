@@ -2,7 +2,7 @@
 
 I'm an **AI Product Manager** with a CS background, building tech products across the **US and Europe**.  
 
-Currently pursuing my **Master's in Engineering Management & Leadership at Rice University** (Fulbright Scholar), with a focus in **Computer & Data Science** — bridging **product strategy**, **AI development**, and **data-driven decision making**.
+Currently pursuing my **Master's in Engineering Management & Leadership at Rice University** (Fulbright Scholar), with a focus in **Computer & Data Science** — bridging **product strategy**, **AI development**, and **intuitive design**.
 
 I believe great products come from listening deeply to customers, experimenting boldly, and turning complex, scattered ideas into clarity.
 
@@ -11,13 +11,13 @@ I believe great products come from listening deeply to customers, experimenting 
 ### Education
 
 **Master of Engineering Management & Leadership** – *Computer & Data Science Concentration*  
-📍 Rice University · Houston, TX · 4.0 GPA · *Aug 2025 – Dec 2026* 
-🏅 Fulbright Scholar · President of ASEM · Doerr Leadership Coaching · Queer oSTEM Mentor  
-*Key Projects: ML Model to Predict Churn & SaaS Performance · AI-powered Cooking Assistant SaaS*
+* Rice University · Houston, TX · 4.0 GPA · *Aug 2025 – Dec 2026* 
+* Fulbright Scholar · President of ASEM · Doerr Leadership Coaching · Queer oSTEM Mentor  
+* *Key Projects: ML Model to Predict Churn & SaaS Performance · AI-powered Cooking Assistant SaaS*
 
 **Bachelor of Arts in Computer Science** – *Minors in Mathematics & Information Systems*  
-📍 American University in Bulgaria · *Aug 2016 – Dec 2020*
-*Key Projects: Adaptive Neural Network "Snake Game" · Big Data & ML in Smart Cities*
+* American University in Bulgaria · *Aug 2016 – Dec 2020*
+* *Key Projects: Adaptive Neural Network "Snake Game" · Big Data & ML in Smart Cities*
 
 ---
 
