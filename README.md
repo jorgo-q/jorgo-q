@@ -12,12 +12,9 @@ I believe great products come from listening deeply to customers, experimenting 
 
 **Master of Engineering Management & Leadership** – *Computer & Data Science Concentration*  
 * Rice University · Houston, TX · 4.0 GPA · *Aug 2025 – Dec 2026* 
-* Fulbright Scholar · President of ASEM · Doerr Leadership Coaching · Queer oSTEM Mentor  
-* *Key Projects: ML Model to Predict Churn & SaaS Performance · AI-powered Cooking Assistant SaaS*
 
 **Bachelor of Arts in Computer Science** – *Minors in Mathematics & Information Systems*  
 * American University in Bulgaria · *Aug 2016 – Dec 2020*
-* *Key Projects: Adaptive Neural Network "Snake Game" · Big Data & ML in Smart Cities*
 
 ---
 
@@ -54,16 +51,13 @@ A habit-forming fitness app designed to help users build consistency through sma
 ### Skills
 
 **Product:**  
-AI Product Management · 0→1 MVP Development · Product Discovery & Validation · Roadmapping · A/B Testing · User Research · Agile & Scrum · Data Storytelling
+AI Product Management · 0→1 MVP Development · Product Discovery & Validation · Roadmapping · A/B Testing · User Research · Agile & Scrum · Data 
 
 **Tech:**  
-Python · SQL · Machine Learning · Data Visualization · EDA · AI Prototyping & Integration
+Python · SQL · Machine Learning · Data Visualization · EDA · AI Prototyping & Integration  · Claude Code  · Claude Design · ML 
 
 **Tools:**  
 Miro · Jira · Figma · Notion · Azure Boards · Zapier · Airtable · HubSpot
-
-**Certifications:**  
-Professional Scrum Product Owner I · Becoming a PM · Reforge PM Courses
 
 ---
 
